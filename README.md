@@ -1,0 +1,1 @@
+run the code in your system , after the training process check the above given data it has 10 days data and model has been trained only with 9 days data , give the information of open and high price of the that 10th day , model predicts the closing price
